@@ -5,6 +5,9 @@ Build/
 Builds/
 Logs/
 UserSettings/
+.vs/
+.vsconfig
+Horror.slnx
 
 *.csproj
 *.unityproj
